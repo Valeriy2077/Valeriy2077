@@ -1,6 +1,6 @@
-[![Header](https://github.com/Valeriy2077/Valeriy2077/blob/main/assets/me.jpg)
+![Header](https://github.com/Valeriy2077/Valeriy2077/blob/main/assets/me.jpg)
 
-## I'm a QA Engineer
+## Привет! Меня зовут Валерий. Welcome to my GitHub👋
 
 ## My CV
 [Link to my CV]()
