@@ -1,4 +1,5 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+[![Header](https://github.com/Valeriy2077/Valeriy2077/blob/main/assets/me.jpg])
+
 ## I'm a QA Engineer
 
 ## My CV
