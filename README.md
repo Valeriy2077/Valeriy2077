@@ -1,18 +1,9 @@
 [![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+## I'm a QA Engineer
+
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV]()
 
-
-
-<!-- YOUTUBE:START -->
-- [TEST IT ЭТО ЗАМЕНА TESTRAIL? Обзор функций](https://www.youtube.com/watch?v=TInzuFHtFmM)
-- [Вопросы с реальных собеседований для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=cEq5OIHelCo)
-- [Вопросы на собеседовании тестировщиков &lpar;Junior QA&rpar; от менеджеров](https://www.youtube.com/watch?v=Ew9hUAZkBr8)
-- [Разбор резюме тестировщиков, QA Engineer](https://www.youtube.com/watch?v=kFk5wXAaoCw)
-- [Как оформляют в штат в айти? #войтивайти](https://www.youtube.com/watch?v=Y2Xw0F4xeiA)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -45,4 +36,4 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/валерий-ковальчук-838060274/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valeriy2077
-)](https://github.com/anuraghazra/github-readme-stats))
+)](https://github.com/anuraghazra/github-readme-stats)
