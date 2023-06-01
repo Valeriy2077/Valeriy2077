@@ -34,4 +34,4 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/валерий-ковальчук-838060274/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriy2077&show_icons=true&theme=transparent&count_private=true)
-(https://github.com/anuraghazra/github-readme-stats)
+
