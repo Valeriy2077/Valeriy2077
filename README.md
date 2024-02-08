@@ -21,5 +21,9 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/валерий-ковальчук-838060274/)
 [![Header](https://img.shields.io/badge/HeadHunter-090909?style=for-the-badge&logo=HeadHunter&logoColor=8cc4d7)](https://spb.hh.ru/resume/fadbeb96ff057121be0039ed1f6f7052524133)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriy2077&show_icons=true&theme=transparent&count_private=true)
+<!--
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriy2077&show_icons=true&theme=transparent&count_private=true)
+
+ -->
 
