@@ -1,6 +1,5 @@
 
-## Привет! Меня зовут Валерий. Welcome to my GitHub👋
-
+## Welcome to my GitHub👋
 
 
 ### Language and Tools
